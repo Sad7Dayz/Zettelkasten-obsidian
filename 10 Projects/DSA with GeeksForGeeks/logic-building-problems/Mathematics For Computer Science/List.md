@@ -1,0 +1,1 @@
+[Math](https://www.geeksforgeeks.org/computer-science-fundamentals/mathematics-for-computer-science/)
