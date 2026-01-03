@@ -28,12 +28,12 @@
 ```text
 📦 PKM-Vault
  ┣ 📥 Inbox
- ┣ 📔 Zettelkasten
- ┃ ┣ 📖 Literature Notes
- ┃ ┣ 🧠 Permanent Notes
- ┃ ┗ 🗺️ Index & Structure Notes
+ ┃ 📖 Literature Notes
+ ┃ 🧠 Permanent Notes
+ ┃ 🗺️ Index & Structure Notes
  ┣ 🎯 Projects
  ┣ 🧭 Areas
  ┣ 📚 Resources
  ┣ 🗄️ Archive
  ┗ ⚙️ Templates
+
